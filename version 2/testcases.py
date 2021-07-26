@@ -1,0 +1,23 @@
+from test import*
+#testcases
+
+main("add_subject Maths A/L")
+main("add_subject Chemistry A/L")
+main("add_subject Physics A/L")
+main("add_student Pavan 22/10/2001")
+main("add_mark Pavan Maths 90")
+main("add_student Kevin 22/10/2001")
+main("add_mark Kevin Maths 90")
+main("add_student Sas 22/10/2001")
+main("add_mark Sas Maths 90")
+main("show_all_students Maths")
+main("add_mark Pavan Chemistry 9")
+main("add_mark Pavan Physics 90")
+main("show_all_mark Pavan")
+main("modify_student Pavan Rajiva 22/10/2001")
+main("show_all_mark Pavan")
+main("show_all_mark Rajiva")
+main("show_all_students Maths")
+main("modify_subject Maths Chem A/L")
+main("show_all_mark Rajiva")
+main("show_mark Rajiva Physics")
